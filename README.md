@@ -1,4 +1,4 @@
-# Threat-Hunting-Scenario-Takeover- Incident Response Report
+# Threat Hunting Scenario Takeover- Incident Response Report
 
 **Report ID:** CLD-IR-0001  
 **Engagement:** Cloudora Security Operations 
